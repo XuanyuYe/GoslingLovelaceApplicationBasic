@@ -5,15 +5,13 @@
 
 ## Part 1
 
-- Here is my demo:
+- Here is my EnglishDemo:
 
-  ![demo](https://github.com/lining9717/GoslingLovelaceApplicationBasic/blob/master/display/Part%201.gif?raw=true)
+  ![demo](https://github.com/XuanyuYe/GoslingLovelaceApplicationBasic/blob/master/display/EnglishDemo.gif?raw=true)
 
 ## Part 2
 
-- Here is my demo:
+- Here is my ChineseDemo:
 
-    ![demo](https://github.com/lining9717/GoslingLovelaceApplicationBasic/blob/master/display/Part%202.gif?raw=true)
-=======
-![Demo](display/demo.gif)
+    ![demo](https://github.com/XuanyuYe/GoslingLovelaceApplicationBasic/blob/master/display/ChineseDemo.gif?raw=true)
 >>>>>>> 339b22356ff6c79cb62f101567c134bf46828f25
